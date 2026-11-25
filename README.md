@@ -1,2 +1,2 @@
-# streakmore-legal-
-StreakMore Legal 
+# streakmore-legal
+streakmore legal
