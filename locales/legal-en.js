@@ -12,7 +12,7 @@ window.STREAKMORE_LEGAL_LOCALES["en"] = {
   "privacy": {
     "meta.title": "StreakMore · Privacy Policy",
     "heading": "StreakMore · Privacy Policy",
-    "sub": "Privacy Policy · Effective August 26, 2026 · Updated October 18, 2026",
+    "sub": "Privacy Policy · Effective August 26, 2026 · Updated November 25, 2026",
     "intro.2": "This page informs visitors about my policies regarding the collection, use, and disclosure of Personal Information for anyone who chooses to use my Service.",
     "intro.3": "If you choose to use my Service, you agree to the collection and use of information in relation to this policy. The Personal Information I collect is used to provide and improve the Service. I will not use or share your information with anyone except as described in this Privacy Policy.",
     "intro.4": "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible through StreakMore, unless otherwise defined in this Privacy Policy.",
@@ -51,7 +51,7 @@ window.STREAKMORE_LEGAL_LOCALES["en"] = {
   "terms": {
     "meta.title": "StreakMore · Terms & Conditions",
     "heading": "StreakMore · Terms & Conditions",
-    "sub": "User Agreement · Effective August 26, 2026 · Updated October 18, 2026",
+    "sub": "User Agreement · Effective August 26, 2026 · Updated November 25, 2026",
     "body.p1": "By downloading or using the app, these terms automatically apply to you. Please read them carefully before using the app. You may not copy or modify the app, any part of it, or our trademarks in any way. You may not attempt to extract the app’s source code, translate the app into other languages, or create derivative versions. The app itself and all related trademarks, copyrights, database rights, and other intellectual property rights belong to XuWen.",
     "body.p2": "We are committed to making the app as useful and efficient as possible. We reserve the right to change the app or charge for its services at any time and for any reason. We will never charge you for the app or its services without making it very clear exactly what you are paying for.",
     "body.p3": "The StreakMore app stores and processes personal data you provide to us in order to provide my Service. You are responsible for keeping your phone and access to the app secure. We recommend that you do not jailbreak or root your phone, which removes software restrictions imposed by the official operating system. Doing so could make your phone vulnerable to malware, viruses, or malicious programs, compromise security features, and cause StreakMore to stop working properly or at all.",
